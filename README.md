@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amanbir.seth1709@gmail.com**
 
-- ⚡ Fun fact **I build testing systems that combine 7+ different technologies in a single workflow!**
+- ⚡ Fun fact **I built and AI Agent or a testing systems where i combined 7+ different technologies in a single workflow!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
